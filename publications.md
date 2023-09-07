@@ -24,7 +24,7 @@ Saad Ahmed Qazi, Sadasivan Puthusserypady
 
 Preprint available, under review
 
-[PDF](https://github.com/SkafteNicki/SkafteNicki.github.io/blob/master/files/2023_ai_eeg.pdf){ .md-button }
+[PDF :material-file-pdf-box:](https://github.com/SkafteNicki/SkafteNicki.github.io/blob/master/files/2023_ai_eeg.pdf){ .md-button }
 
 <br/><br/>
 <br/><br/>
@@ -39,7 +39,7 @@ Marco Miani, Frederik Warburg, Pablo Moreno-Muñoz, **Nicke Skafte Detlefsen**, 
 
 In Advances in Neural Information Processing Systems (Neurips) 2022
 
-[PDF](https://github.com/SkafteNicki/SkafteNicki.github.io/blob/master/files/2022_laplacian.pdf){ .md-button }
+[PDF :material-file-pdf-box:](https://github.com/SkafteNicki/SkafteNicki.github.io/blob/master/files/2022_laplacian.pdf){ .md-button }
 
 <br/><br/>
 
@@ -53,7 +53,7 @@ Helene Hauschultz, Rasmus Berg Palm. Pablo Moreno-Muños, **Nicki Skafte Detlefs
 
 arXiv, 2022.
 
-[PDF](https://github.com/SkafteNicki/SkafteNicki.github.io/blob/master/files/2022_reach.pdf"){ .md-button }
+[PDF :material-file-pdf-box:](https://github.com/SkafteNicki/SkafteNicki.github.io/blob/master/files/2022_reach.pdf"){ .md-button }
 
 ---
 
@@ -65,7 +65,7 @@ arXiv, 2022.
 
 In Nature Communications, 2022
 
-[PDF](https://github.com/SkafteNicki/SkafteNicki.github.io/blob/master/files/2022_proteins.pdf){ .md-button }
+[PDF :material-file-pdf-box:](https://github.com/SkafteNicki/SkafteNicki.github.io/blob/master/files/2022_proteins.pdf){ .md-button }
 
 ## 2021
 
@@ -78,7 +78,7 @@ Changsheng Quan, Maxim Grechkin, and William Falcon
 
 In Journal of Open Source Software (JOSS), 2021
 
-[PDF](https://github.com/SkafteNicki/SkafteNicki.github.io/blob/master/files/2021_torchmetrics.pdf){ .md-button }
+[PDF :material-file-pdf-box:](https://github.com/SkafteNicki/SkafteNicki.github.io/blob/master/files/2021_torchmetrics.pdf){ .md-button }
 
 <br/><br/>
 <br/><br/>
@@ -98,7 +98,7 @@ Alexander Bonde, Akshay Pai, Mads Nielsen Martin Sillesen
 
 In Scientific Reports, Nature 2020
 
-[PDF](https://github.com/SkafteNicki/SkafteNicki.github.io/blob/master/files/2020_covid.pdf){ .md-button }
+[PDF :material-file-pdf-box:](https://github.com/SkafteNicki/SkafteNicki.github.io/blob/master/files/2020_covid.pdf){ .md-button }
 
 ---
 
@@ -110,7 +110,7 @@ Raghavendra Selvan, Erik B. Dam, **Nicki Skafte Detlefsen**, Sofus Rischel, Kain
 
 In ICML Workshop on Learning from Missing Data (Artemiss) 2020
 
-[PDF](https://github.com/SkafteNicki/SkafteNicki.github.io/blob/master/files/2020_lung_segmentation.pdf){ .md-button }
+[PDF :material-file-pdf-box:](https://github.com/SkafteNicki/SkafteNicki.github.io/blob/master/files/2020_lung_segmentation.pdf){ .md-button }
 
 ## 2019
 
@@ -122,7 +122,7 @@ In ICML Workshop on Learning from Missing Data (Artemiss) 2020
 
 In Advances in Neural Information Processing Systems (Neurips) 2019
 
-[PDF](https://github.com/SkafteNicki/SkafteNicki.github.io/blob/master/files/2019_variance_estimation.pdf){ .md-button }
+[PDF :material-file-pdf-box:](https://github.com/SkafteNicki/SkafteNicki.github.io/blob/master/files/2019_variance_estimation.pdf){ .md-button }
 
 ---
 
@@ -134,7 +134,7 @@ In Advances in Neural Information Processing Systems (Neurips) 2019
 
 In Advances in Neural Information Processing Systems (Neurips) 2019
 
-[PDF](https://github.com/SkafteNicki/SkafteNicki.github.io/blob/master/files/2019_disentanglement.pdf){ .md-button }
+[PDF :material-file-pdf-box:](https://github.com/SkafteNicki/SkafteNicki.github.io/blob/master/files/2019_disentanglement.pdf){ .md-button }
 
 <br/><br/>
 <br/><br/>
@@ -151,7 +151,7 @@ Ron Shapira Weber, Matan Eyal, **Nicki Skafte Detlefsen**, Oren Shriki, Oren Fre
 
 In Advances in Neural Information Processing Systems (Neurips) 2019
 
-[PDF](https://github.com/SkafteNicki/SkafteNicki.github.io/blob/master/files/2019_dtan.pdf){ .md-button }
+[PDF :material-file-pdf-box:](https://github.com/SkafteNicki/SkafteNicki.github.io/blob/master/files/2019_dtan.pdf){ .md-button }
 
 ## 2018
 
@@ -163,4 +163,4 @@ In Advances in Neural Information Processing Systems (Neurips) 2019
 
 In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2018
 
-[PDF](https://github.com/SkafteNicki/SkafteNicki.github.io/blob/master/files/2018_ddtn.pdf){ .md-button }
+[PDF :material-file-pdf-box:](https://github.com/SkafteNicki/SkafteNicki.github.io/blob/master/files/2018_ddtn.pdf){ .md-button }

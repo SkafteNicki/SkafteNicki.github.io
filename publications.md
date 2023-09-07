@@ -24,7 +24,7 @@ Saad Ahmed Qazi, Sadasivan Puthusserypady
 
 Preprint available, under review
 
-[PDF :material-file-pdf-box:](files/2023_ai_eeg.pdf){ .md-button }
+[PDF :material-file-pdf-box:](files/2023_ai_eeg.pdf){ .md-button } [Bibtex :octicons-cross-reference-16:](files/2023_ai_eeg.bib){ .md-button }
 
 <br/><br/>
 <br/><br/>
@@ -39,7 +39,7 @@ Marco Miani, Frederik Warburg, Pablo Moreno-Muñoz, **Nicke Skafte Detlefsen**, 
 
 In Advances in Neural Information Processing Systems (Neurips) 2022
 
-[PDF :material-file-pdf-box:](files/2022_laplacian.pdf){ .md-button }
+[PDF :material-file-pdf-box:](files/2022_laplacian.pdf){ .md-button }  [Bibtex :octicons-cross-reference-16:](files/2022_laplacian.bib){ .md-button } [Code :material-code-json:](https://github.com/FrederikWarburg/LaplaceAE){ .md-button }
 
 <br/><br/>
 
@@ -53,7 +53,7 @@ Helene Hauschultz, Rasmus Berg Palm. Pablo Moreno-Muños, **Nicki Skafte Detlefs
 
 arXiv, 2022.
 
-[PDF :material-file-pdf-box:](files/2022_reach.pdf"){ .md-button }
+[PDF :material-file-pdf-box:](files/2022_reach.pdf"){ .md-button }  [Bibtex :octicons-cross-reference-16:](files/2022_reach.bib){ .md-button }
 
 ---
 
@@ -65,7 +65,7 @@ arXiv, 2022.
 
 In Nature Communications, 2022
 
-[PDF :material-file-pdf-box:](files/2022_proteins.pdf){ .md-button }
+[PDF :material-file-pdf-box:](files/2022_proteins.pdf){ .md-button }  [Bibtex :octicons-cross-reference-16:](files/2022_protein.bib){ .md-button } [Code :material-code-json:](https://github.com/MachineLearningLifeScience/meaningful-protein-representations){ .md-button }
 
 ## 2021
 
@@ -78,7 +78,7 @@ Changsheng Quan, Maxim Grechkin, and William Falcon
 
 In Journal of Open Source Software (JOSS), 2021
 
-[PDF :material-file-pdf-box:](files/2021_torchmetrics.pdf){ .md-button }
+[PDF :material-file-pdf-box:](files/2021_torchmetrics.pdf){ .md-button }  [Bibtex :octicons-cross-reference-16:](files/2021_torchmetrics.bib){ .md-button } [Code :material-code-json:](https://github.com/Lightning-AI/torchmetrics){ .md-button }
 
 <br/><br/>
 <br/><br/>
@@ -98,7 +98,7 @@ Alexander Bonde, Akshay Pai, Mads Nielsen Martin Sillesen
 
 In Scientific Reports, Nature 2020
 
-[PDF :material-file-pdf-box:](files/2020_covid.pdf){ .md-button }
+[PDF :material-file-pdf-box:](files/2020_covid.pdf){ .md-button } [Bibtex :octicons-cross-reference-16:](files/2020_covid.bib){ .md-button }
 
 ---
 
@@ -110,7 +110,7 @@ Raghavendra Selvan, Erik B. Dam, **Nicki Skafte Detlefsen**, Sofus Rischel, Kain
 
 In ICML Workshop on Learning from Missing Data (Artemiss) 2020
 
-[PDF :material-file-pdf-box:](files/2020_lung_segmentation.pdf){ .md-button } [Code :material-code-json:](https://github.com/raghavian/lungVAE){ .md-button }
+[PDF :material-file-pdf-box:](files/2020_lung_segmentation.pdf){ .md-button } [Bibtex :octicons-cross-reference-16:](files/2020_lung_segmentation.bib){ .md-button } [Code :material-code-json:](https://github.com/raghavian/lungVAE){ .md-button }
 
 ## 2019
 

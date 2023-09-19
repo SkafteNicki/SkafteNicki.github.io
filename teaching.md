@@ -27,7 +27,7 @@ Year | Students | Project |
 -----|----------|---------|
 2023 | [Róbert Gers](https://www.linkedin.com/in/robert-gers/) | High performance extraction of financial market data |
 2023 | Andreas Piper Mårtensson | Investigation and implementation of Machine Learning Pipelines within the area of image analysis and classification |
-2023 | Tamas Janos Paulik | Implementation and orchestration of a scalable and automated Machine Learning Operation pipeline |
+2023 | [Tamas Janos Paulik](https://www.linkedin.com/in/tam%C3%A1s-paulik-894481182/) | Implementation and orchestration of a scalable and automated Machine Learning Operation pipeline |
 2023 | [Stefanos Rodopoulos](https://www.linkedin.com/in/stefanos-rodopoulos-254878208/) | Exploring Bio relationships through Counterfactual Optimisation Analysis using VAE |
 2023 | [Joshua Sebastian](https://www.linkedin.com/in/joshua-9/) | Using Deep Learning and MLOps to detect Dementia through Speech Analysis |
 2023 | [Alejandro Rodriguez Salamanca](https://www.linkedin.com/in/alejandro-rodr%C3%ADguez-salamanca-308aa697/) | Memory Efficient Methods for Large Models |

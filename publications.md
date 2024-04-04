@@ -53,7 +53,7 @@ Helene Hauschultz, Rasmus Berg Palm. Pablo Moreno-Muños, **Nicki Skafte Detlefs
 
 arXiv, 2022.
 
-[PDF :material-file-pdf-box:](files/2022_reach.pdf"){ .md-button }  [Bibtex :octicons-cross-reference-16:](files/2022_reach.bib){ .md-button }
+[PDF :material-file-pdf-box:](files/2022_reach.pdf){ .md-button }  [Bibtex :octicons-cross-reference-16:](files/2022_reach.bib){ .md-button }
 
 ---
 

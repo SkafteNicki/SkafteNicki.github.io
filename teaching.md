@@ -25,6 +25,20 @@ Current students:
 
 Year | Students | Project |
 -----|----------|---------|
+2024 | [Mikkel Theiss Westermann](https://www.linkedin.com/in/mikkel-westermann/) | 
+Alignment of Unstructured Data with Structured Models in Accounting Software Using Artificial Intelligence |
+
+Former students:
+
+Year | Students | Project |
+-----|----------|---------|
+2024 | [Jacob August Ottensten](https://www.linkedin.com/in/jacob-august-ottensten-640625175/)] and [Gustav Franck](https://www.linkedin.com/in/gustav-franck-892497a5/) | Automatic Label Error Detection in MLOps Pipelines |
+2024 | [Nima Taghidoust](https://www.linkedin.com/in/nimataghidoost/) | Harnessing LLMs for Customer Support and Financial Inquiry Automation | 
+2024 | [Navaneeth Kizhakkumbadan Pacha](https://www.linkedin.com/in/navaneeth-k-p-618067190/) | Investigating Deep Learning based methodologies to automate program Synthesis for Biostatistics ADAM programming |
+2024 | [Mathias Kristensen](https://www.linkedin.com/in/mathias-kristensen-1865a01a2/) | Cloud resource cost optimisation for machine learning model training using Kubeflow in Kubernetes Clusters |
+2024 | [Freya Gerup Helstrup](https://www.linkedin.com/in/freyagh/) | A framework for automated testing of ETL pipelines |
+2024 | [Vivian Jacobsen](https://www.linkedin.com/in/vivian-jacobsen-885a7a183/) | Generative AI of flexible reports |
+2024 | [Kristóf Kenéz Drexler](https://www.linkedin.com/in/kkdrexler/) | Locus: Global Localization of Earthly Images powered by Deep Learning |
 2023 | [Róbert Gers](https://www.linkedin.com/in/robert-gers/) | High performance extraction of financial market data |
 2023 | Andreas Piper Mårtensson | Investigation and implementation of Machine Learning Pipelines within the area of image analysis and classification |
 2023 | [Tamas Janos Paulik](https://www.linkedin.com/in/tam%C3%A1s-paulik-894481182/) | Implementation and orchestration of a scalable and automated Machine Learning Operation pipeline |
@@ -34,11 +48,6 @@ Year | Students | Project |
 2023 | [Anna Bzinkowska](https://www.linkedin.com/in/anna-bzinkowska-612968193/) | Machine Learning approach to product categorization in the manufacturing industry |
 2023 | [Melina Siskou](https://www.linkedin.com/in/melina-siskou-5a3b08167/) | Optimizing Machine Learning Operations in Logistics: Exploring Best Practices and Evaluating Tools |
 2023 | [Milad Taghikhani](https://www.linkedin.com/in/milad-taghikhani-202b97200/) | Exploring Multimodal Data Integration to Large Language Models and LLM-based generative models |
-
-Former students:
-
-Year | Students | Project |
------|----------|---------|
 2023 | [Thomas Spyrou](https://www.linkedin.com/in/thomas-spyrou-a49050194/) | Monitoring black-box classification models in machine learning systems |
 2023 | [Laurine M Dargaud](https://www.linkedin.com/in/laurinedargaud/) | Developing a spontaneous speech-based machine learning model for the early detection of dementia |
 2023 | [Spyridon Vlachospyros](https://www.linkedin.com/in/spyros-vlachospyros/) | Context-aware object detection using deep learning |

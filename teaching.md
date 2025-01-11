@@ -25,14 +25,22 @@ Current students:
 
 Year | Students | Project |
 -----|----------|---------|
-2024 | [Mikkel Theiss Westermann](https://www.linkedin.com/in/mikkel-westermann/) | 
-Alignment of Unstructured Data with Structured Models in Accounting Software Using Artificial Intelligence |
+2024 | Pierre Høgenhaug | Analysts vs. Algorithms: Evaluating LLMs’ Ability to Assess Credit Risk Like Human Analysts |
+2024 | Magnús Sigurðarson | Fine-Tuning and evaluating large language models for Icelandic language comprehension |
+2024 | Laura Andrea Paz Salas | Machine Learning and MLOps for Process Mode Analysis in Medical Device Assembly |
+2024 | Hyunho Shin  | AI-assisted customer service support and solution proposal |
+2024 | Nael Rashdeen | Backtesting and Deploying Systematic Trading Strategies with Machine Learning and MLOps |
+2024 | Eleftherios Katiforis | Logical Fallacy detection using LLMs |
+2024 | Magnus Nikolaj Nyholm Jensen | Leveraging Generative AI for Enhanced Regulatory Intelligence in the Pharmaceutical Industry |
+2024 | Jakub Solis | Exploring Modern Cloud Architectures for AI Development and Deployment |
 
 Former students:
 
 Year | Students | Project |
 -----|----------|---------|
-2024 | [Jacob August Ottensten](https://www.linkedin.com/in/jacob-august-ottensten-640625175/)] and [Gustav Franck](https://www.linkedin.com/in/gustav-franck-892497a5/) | Automatic Label Error Detection in MLOps Pipelines |
+2024 | [Mikkel Theiss Westermann](https://www.linkedin.com/in/mikkel-westermann/) | 
+Alignment of Unstructured Data with Structured Models in Accounting Software Using Artificial Intelligence |
+2024 | [Jacob August Ottensten](https://www.linkedin.com/in/jacob-august-ottensten-640625175/) and [Gustav Franck](https://www.linkedin.com/in/gustav-franck-892497a5/) | Automatic Label Error Detection in MLOps Pipelines |
 2024 | [Nima Taghidoust](https://www.linkedin.com/in/nimataghidoost/) | Harnessing LLMs for Customer Support and Financial Inquiry Automation | 
 2024 | [Navaneeth Kizhakkumbadan Pacha](https://www.linkedin.com/in/navaneeth-k-p-618067190/) | Investigating Deep Learning based methodologies to automate program Synthesis for Biostatistics ADAM programming |
 2024 | [Mathias Kristensen](https://www.linkedin.com/in/mathias-kristensen-1865a01a2/) | Cloud resource cost optimisation for machine learning model training using Kubeflow in Kubernetes Clusters |

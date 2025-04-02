@@ -25,21 +25,29 @@ Current students:
 
 Year | Students | Project |
 -----|----------|---------|
-2024 | Pierre Høgenhaug | Analysts vs. Algorithms: Evaluating LLMs’ Ability to Assess Credit Risk Like Human Analysts |
-2024 | Magnús Sigurðarson | Fine-Tuning and evaluating large language models for Icelandic language comprehension |
-2024 | Laura Andrea Paz Salas | Machine Learning and MLOps for Process Mode Analysis in Medical Device Assembly |
-2024 | Hyunho Shin  | AI-assisted customer service support and solution proposal |
-2024 | Nael Rashdeen | Backtesting and Deploying Systematic Trading Strategies with Machine Learning and MLOps |
-2024 | Eleftherios Katiforis | Logical Fallacy detection using LLMs |
-2024 | Magnus Nikolaj Nyholm Jensen | Leveraging Generative AI for Enhanced Regulatory Intelligence in the Pharmaceutical Industry |
-2024 | Jakub Solis | Exploring Modern Cloud Architectures for AI Development and Deployment |
+2025 | [Linea Bartholdy](https://www.linkedin.com/in/linea-bartholdy/) & [Alexandra Bøje Inselmann](https://www.linkedin.com/in/alexandra-inselmann-618745178/) | Active Learning for Industrial Quality Assessment |
+2025 | [Bozhi Lyu](https://www.linkedin.com/in/bozhi-lyu/) | From Training to Deployment: Quantization Strategies for Efficient Audio Deep Neural Networks
+2025 | [Christian Warburg](https://www.linkedin.com/in/christian-warburg-1821a1253/) | Investigating 3D Gaussian Splatting for Efficient Real-Time Radiance Field Rendering
+2025 | [Andreas Østerby Holst Rasmussen](https://www.linkedin.com/in/andreasoesterby/) | AI-Based Summarization of Danish Medical Records |
+2025 | [William Henrik Klingsten Peytz](https://www.linkedin.com/in/william-peytz/) | Learning Systems for Middle School Math | 
+2025 | [Juan Trebolle](https://www.linkedin.com/in/juan-trebolle-ba9518157/) | AI-Powered Analysis of Cognitive Test Drawings for Dementia Detection and Deployment |
+2025 | [Esben Damkjær Sørensen](https://www.linkedin.com/in/esbendamkjaer/) | Multimodal RAG for Answering QueriesAcross Diverse Data Sources | 
+2025 | Luís Miguel Ferreira Freire | Exploring different approaches to customize LLMs for text-to-code generation |
 
 Former students:
 
 Year | Students | Project |
 -----|----------|---------|
-2024 | [Mikkel Theiss Westermann](https://www.linkedin.com/in/mikkel-westermann/) | 
-Alignment of Unstructured Data with Structured Models in Accounting Software Using Artificial Intelligence |
+2024 | [Pierre Høgenhaug](https://www.linkedin.com/in/pierrehogenhaug1999/) | Analysts vs. Algorithms: Evaluating LLMs’ Ability to Assess Credit Risk Like Human Analysts |
+2024 | Magnús Sigurðarson | Fine-Tuning and evaluating large language models for Icelandic language comprehension |
+2024 | [Laura Andrea Paz Salas](https://www.linkedin.com/in/laura-andrea-paz/) | Machine Learning and MLOps for Process Mode Analysis in Medical Device Assembly |
+2024 | [Hyunho Shin](https://www.linkedin.com/in/hyunho-shin-2734b01bb/)  | AI-assisted customer service support and solution proposal |
+2024 | Nael Rashdeen | Backtesting and Deploying Systematic Trading Strategies with Machine Learning and MLOps |
+2024 | [Eleftherios Katiforis](https://www.linkedin.com/in/lefteriskat/) | Logical Fallacy detection using LLMs |
+2024 | [Magnus Nikolaj Nyholm Jensen](https://www.linkedin.com/in/magnus-nyholm-jensen/) | Leveraging Generative AI for Enhanced Regulatory Intelligence in the Pharmaceutical Industry |
+2024 | [Tobias Munch](https://www.linkedin.com/in/tobias-munch-a37888216/) | Towards Better Label Error Detection |
+2024 | [Jakub Solis](https://www.linkedin.com/in/jakub-solis/) | Exploring Modern Cloud Architectures for AI Development and Deployment |
+2024 | [Mikkel Theiss Westermann](https://www.linkedin.com/in/mikkel-westermann/) | Alignment of Unstructured Data with Structured Models in Accounting Software Using Artificial Intelligence |
 2024 | [Jacob August Ottensten](https://www.linkedin.com/in/jacob-august-ottensten-640625175/) and [Gustav Franck](https://www.linkedin.com/in/gustav-franck-892497a5/) | Automatic Label Error Detection in MLOps Pipelines |
 2024 | [Nima Taghidoust](https://www.linkedin.com/in/nimataghidoost/) | Harnessing LLMs for Customer Support and Financial Inquiry Automation | 
 2024 | [Navaneeth Kizhakkumbadan Pacha](https://www.linkedin.com/in/navaneeth-k-p-618067190/) | Investigating Deep Learning based methodologies to automate program Synthesis for Biostatistics ADAM programming |
@@ -48,7 +56,7 @@ Alignment of Unstructured Data with Structured Models in Accounting Software Usi
 2024 | [Vivian Jacobsen](https://www.linkedin.com/in/vivian-jacobsen-885a7a183/) | Generative AI of flexible reports |
 2024 | [Kristóf Kenéz Drexler](https://www.linkedin.com/in/kkdrexler/) | Locus: Global Localization of Earthly Images powered by Deep Learning |
 2023 | [Róbert Gers](https://www.linkedin.com/in/robert-gers/) | High performance extraction of financial market data |
-2023 | Andreas Piper Mårtensson | Investigation and implementation of Machine Learning Pipelines within the area of image analysis and classification |
+2023 | [Andreas Piper Mårtensson](https://www.linkedin.com/in/andreas-piper-m%C3%A5rtensson/) | Investigation and implementation of Machine Learning Pipelines within the area of image analysis and classification |
 2023 | [Tamas Janos Paulik](https://www.linkedin.com/in/tam%C3%A1s-paulik-894481182/) | Implementation and orchestration of a scalable and automated Machine Learning Operation pipeline |
 2023 | [Stefanos Rodopoulos](https://www.linkedin.com/in/stefanos-rodopoulos-254878208/) | Exploring Bio relationships through Counterfactual Optimisation Analysis using VAE |
 2023 | [Joshua Sebastian](https://www.linkedin.com/in/joshua-9/) | Using Deep Learning and MLOps to detect Dementia through Speech Analysis |
@@ -69,7 +77,7 @@ Alignment of Unstructured Data with Structured Models in Accounting Software Usi
 2022 | [Nicolai Weisbjerg](https://www.linkedin.com/in/nicolai-weisbjerg/) | Quantifying Uncertainty in Semantic Segmentation using Bayesian Deep Metric Learning |
 2022 | [Frederik Kjær](https://www.linkedin.com/in/frederik-kj%C3%A6r/) and [Jonas Christian Rask Levin](https://www.linkedin.com/in/jonas-levin-6959621b1/) | Construction of a Recommendation system for best next buy recommendations |
 2022 | [Bekarys Gabdrakhimov](https://www.linkedin.com/in/bekarys/) | End-to-end machine learning project on classification of EEG signal of depressed patients |
-2022 | Xianhao Liu | Continues piecewise affine based normalizing flows |
+2022 | [Xianhao Liu](https://www.linkedin.com/in/xianhao-liu-377a4213b/) | Continues piecewise affine based normalizing flows |
 2022 | [Andri Geir Arnarson](https://www.linkedin.com/in/andri-geir-arnarson-8a8a34141/) and [Asger Frederik Græsholt](https://www.linkedin.com/in/asger-gr%C3%A6sholt-6711751a0/) | Automation of a fruit sorting system |
 2022 | [Gustav Selfort Hartz](https://www.linkedin.com/in/gustavhartz/) | Using deep learning and transformer models for processing, searching, and tagging legal documents |
 2022 | [Marco Placenti](https://www.linkedin.com/in/marco-placenti-a4564b111/) | Machine Learning Pipeline Engineering with Amazon Web Services |

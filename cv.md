@@ -17,23 +17,27 @@ hide:
 
 ## Work experience
 
-- 2022 - now: Postdoctoral Researcher,
+- 2025 - now: Associate Professor,
+    - DTU Compute, Section for cognitive systems
+    - Research in MLOps and efficient machine learning. Teaching course 02476 Machine Learning Operations.
+        Master and bachelor project supervision.
 
-    - Pioneer Centre for Artificial Intelligence
-    - Research in MLOps and efficient machine learning. Teachning course 02476 Machine Learning Operations.
-      Master and bachelor project supervision.
+- 2022 - 2025: Postdoctoral Researcher,
+    - Pioneer Center for Artificial Intelligence
+    - Research in MLOps and efficient machine learning. Teaching course 02476 Machine Learning Operations.
+        Master and bachelor project supervision.
 
 - 2021 - 2022: Postdoctoral Researcher,
     - DTU Compute, Section for cognitive systems
-    - Research in deep generative models and manifold learning. Teachning course 02476 Machine Learning Operations.
-      Master and bachelor project supervision.
+    - Research in deep generative models and manifold learning. Teaching course 02476 Machine Learning Operations.
+        Master and bachelor project supervision.
 
-- 2020 - now: Parttime software engineer
+- 2020 - now: Part-time software engineer
     - Core developer and maintainer at Lightning AI: <https://lightning.ai/>
 
 - 2014 - 2017: Teaching assistant
     - DTU Compute
-    - In course 02450 Introduction to machine learning and datamining. Support during exercises and correcting reports.
+    - In course 02450 Introduction to machine learning and data mining. Support during exercises and correcting reports.
     - In course 01035 Mathematics 2. Support during exercises and correction of weekly handins.
 
 - 2013 - 2016: Part time research assistant

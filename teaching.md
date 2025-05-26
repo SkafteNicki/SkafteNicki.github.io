@@ -19,20 +19,22 @@ of frameworks, both local and in the cloud, for doing large scale machine learni
 
 ## Supervision
 
-Feel free to reach out to me if you have an interesting project proposal and is missing a supervisor.
+Feel free to reach out to me if you have an interesting project proposal and is missing a supervisor. I have put together a little website with
+good advice etc. before, during and after writing your thesis [here](https://skaftenicki.github.io/dtu_cs_thesis/).
 
 Current students:
 
 Year | Students | Project |
 -----|----------|---------|
-2025 | [Linea Bartholdy](https://www.linkedin.com/in/linea-bartholdy/) & [Alexandra Bøje Inselmann](https://www.linkedin.com/in/alexandra-inselmann-618745178/) | Active Learning for Industrial Quality Assessment |
+2025 | [Linea Bartholdy](https://www.linkedin.com/in/linea-bartholdy/) and [Alexandra Bøje Inselmann](https://www.linkedin.com/in/alexandra-inselmann-618745178/) | Active Learning for Industrial Quality Assessment |
 2025 | [Bozhi Lyu](https://www.linkedin.com/in/bozhi-lyu/) | From Training to Deployment: Quantization Strategies for Efficient Audio Deep Neural Networks
 2025 | [Christian Warburg](https://www.linkedin.com/in/christian-warburg-1821a1253/) | Investigating 3D Gaussian Splatting for Efficient Real-Time Radiance Field Rendering
 2025 | [Andreas Østerby Holst Rasmussen](https://www.linkedin.com/in/andreasoesterby/) | AI-Based Summarization of Danish Medical Records |
 2025 | [William Henrik Klingsten Peytz](https://www.linkedin.com/in/william-peytz/) | Learning Systems for Middle School Math | 
 2025 | [Juan Trebolle](https://www.linkedin.com/in/juan-trebolle-ba9518157/) | AI-Powered Analysis of Cognitive Test Drawings for Dementia Detection and Deployment |
 2025 | [Esben Damkjær Sørensen](https://www.linkedin.com/in/esbendamkjaer/) | Multimodal RAG for Answering QueriesAcross Diverse Data Sources | 
-2025 | Luís Miguel Ferreira Freire | Exploring different approaches to customize LLMs for text-to-code generation |
+2025 | [Luís Miguel Ferreira Freire](https://www.linkedin.com/in/lu%C3%ADs-freire/) | Exploring different approaches to customize LLMs for text-to-code generation |
+2025 | [Andreas Rasmussen](https://www.linkedin.com/in/andreasoesterby/) | Locally Hosted AI-Based Summarization of Patient Records in Danish General Practice |
 
 Former students:
 

@@ -1,0 +1,61 @@
+<header class="profile-header">
+    <div class="profile-header-content">
+        <a href="{{ site.url }}" class="avatar-link">
+            <img src="{{ '/assets/images/nicki_image.png' | relative_url }}" alt="{{ site.title }}" class="avatar">
+        </a>
+        <div class="profile-info">
+            <h1 class="profile-name">{{ site.title }}</h1>
+            <p class="username">{{ site.github_username }}</p>
+            <p class="bio">
+                Associate Professor at DTU Compute. Core developer at Lightning AI. 
+                Research in efficient ML, MLOps, and deep learning.
+            </p>
+            <div class="profile-stats">
+                <a href="#" class="stat">
+                    <span class="stat-value">0</span>
+                    <span class="stat-label">followers</span>
+                </a>
+                <span class="stat">
+                    <span class="stat-value">0</span>
+                    <span class="stat-label">following</span>
+                </span>
+            </div>
+            <div class="profile-links">
+                <a href="https://www.compute.dtu.dk/english/research/research-sections/cogsys" class="link-item">
+                    <svg height="16" viewBox="0 0 16 16" version="1.1" width="16" fill="currentColor">
+                        <path d="M8 0c4.42 0 8 3.58 8 8s-3.58 8-8 8-8-3.58-8-8 3.58-8 8-8zm0-2C3.58 0 0 3.58 0 8s3.58 8 8 8 8-3.58 8-8-3.58-8-8-8z"></path>
+                        <path d="M8 4a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"></path>
+                    </svg>
+                    {{ site.organization }}
+                </a>
+                <a href="https://lightning.ai/" class="link-item">
+                    <svg height="16" viewBox="0 0 16 16" version="1.1" width="16" fill="currentColor">
+                        <path d="M8 0c4.42 0 8 3.58 8 8s-3.58 8-8 8-8-3.58-8-8 3.58-8 8-8zm0-2C3.58 0 0 3.58 0 8s3.58 8 8 8 8-3.58 8-8-3.58-8-8-8z"></path>
+                        <path d="M8 4a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"></path>
+                    </svg>
+                    {{ site.organization2 }}
+                </a>
+                <span class="link-item">
+                    <svg height="16" viewBox="0 0 16 16" version="1.1" width="16" fill="currentColor">
+                        <path d="M8 0a8 8 0 100 16A8 8 0 008 0zm0 14.5a6.5 6.5 0 110-13 6.5 6.5 0 010 13z"></path>
+                        <path d="M8 3v5l3.5 2"></path>
+                    </svg>
+                    {{ site.location }}
+                </span>
+                <a href="mailto:{{ site.email }}" class="link-item">
+                    <svg height="16" viewBox="0 0 16 16" version="1.1" width="16" fill="currentColor">
+                        <path d="M1.5 2.75a.25.25 0 01.25-.25h12.5a.25.25 0 01.25.25v.5l-6.5 4.08-6.5-4.08v-.5z"></path>
+                        <path d="M14.5 3.25v8.5a.75.75 0 01-.75.75H2.25a.75.75 0 01-.75-.75v-8.5l6.5 4.08 6.5-4.08z"></path>
+                    </svg>
+                    {{ site.email }}
+                </a>
+                <a href="https://skaftenicki.github.io/dtu_mlops/" class="link-item">
+                    <svg height="16" viewBox="0 0 16 16" version="1.1" width="16" fill="currentColor">
+                        <path d="M8 0a8 8 0 100 16A8 8 0 008 0zm1 12H7V7h2v5zm1-6H7V4h2v2z"></path>
+                    </svg>
+                    MLOps Course
+                </a>
+            </div>
+        </div>
+    </div>
+</header>

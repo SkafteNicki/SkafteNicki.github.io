@@ -1,0 +1,18 @@
+title: Nicki Skafte Detlefsen
+description: Personal website of Nicki Skafte Detlefsen - ML Researcher & Associate Professor
+url: "https://skafteNicki.github.io"
+github_username: SkafteNicki
+email: nicki.skamail@dtu.dk
+location: Copenhagen, Denmark
+organization: DTU Compute
+organization2: Lightning AI
+
+# Build settings
+markdown: kramdown
+
+# Exclude from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor

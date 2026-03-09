@@ -1,0 +1,22 @@
+<nav class="navigation">
+    <div class="nav-tabs">
+        <a href="{{ '/' | relative_url }}" class="nav-tab {% if page.url == '/' %}active{% endif %}">
+            Overview
+        </a>
+        <a href="{{ '/publications.html' | relative_url }}" class="nav-tab {% if page.url == '/publications.html' %}active{% endif %}">
+            Publications <span class="count">14</span>
+        </a>
+        <a href="{{ '/teaching.html' | relative_url }}" class="nav-tab {% if page.url == '/teaching.html' %}active{% endif %}">
+            Teaching
+        </a>
+        <a href="{{ '/projects.html' | relative_url }}" class="nav-tab {% if page.url == '/projects.html' %}active{% endif %}">
+            Projects <span class="count">3</span>
+        </a>
+        <a href="{{ '/services.html' | relative_url }}" class="nav-tab {% if page.url == '/services.html' %}active{% endif %}">
+            Hire Me
+        </a>
+        <a href="{{ '/cv.html' | relative_url }}" class="nav-tab {% if page.url == '/cv.html' %}active{% endif %}">
+            CV
+        </a>
+    </div>
+</nav>
